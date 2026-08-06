@@ -72,8 +72,14 @@ li {
 } 
 
 @media (max-width: 768px) {
-
   .price-container {
     flex-direction: column;
+    align-items: center;
+  }
+
+  h1 {
+    font-size: 2.3rem;
   }
 }
+
+
