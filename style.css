@@ -72,6 +72,10 @@ li {
 } 
 
 @media (max-width: 768px) {
+  body {
+    background-color: red;
+  }
+
   .pricing-container {
     flex-direction: column;
   }
